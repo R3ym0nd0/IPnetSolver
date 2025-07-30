@@ -31,9 +31,9 @@ This tool helps students, network engineers, and ethical hackers save time and a
 
 Looking for older versions of IPnetSolver before v2.0.0?
 
-🔗 [Click here to browse the original versions (v1.x.x) inside the Toolbox Repo](https://github.com/R3ym0nd0/Python-Resources/tree/main/MyToolBox/IPnetSolver)
+🔗 [Click here to browse the original versions (beta to v1.x.x) inside the Toolbox Repo](https://github.com/R3ym0nd0/Python-Resources/tree/main/MyToolBox/IPnetSolver)
 
-> These were stored in a multi-tool collection before this tool got its own dedicated repo.
+> These were stored in a MyToolBox repository before this tool got its own dedicated repo.
 
 ---
 
